@@ -7,10 +7,10 @@ This is my implementation of Bellman-Ford Algorithm
 
 Reference: https://www.youtube.com/watch?v=FtN3BYH2Zes&ab_channel=AbdulBari
 
-**Sample usage:**
+**Sample Usage:**
 
 
-Inputting a graph:
+Inputting a Graph:
 
 ![image](https://github.com/davidkingroderos/bellman-ford-algorithm/assets/75028710/6445be0d-469b-4a5d-b313-0e100e70c680)
 
