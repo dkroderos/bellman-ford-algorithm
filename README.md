@@ -3,13 +3,16 @@ This is my implementation of Bellman-Ford Algorithm
 
 Sample usage:
 
+
 Inputting a graph:
 
 ![image](https://github.com/davidkingroderos/bellman-ford-algorithm/assets/75028710/6445be0d-469b-4a5d-b313-0e100e70c680)
 
+
 Choosing a Starting Node:
 
 ![image](https://github.com/davidkingroderos/bellman-ford-algorithm/assets/75028710/7bf9a41b-db6c-47ae-a8b5-8c93fc731dae)
+
 
 Relaxation:
 
