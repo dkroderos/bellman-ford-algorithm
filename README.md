@@ -5,7 +5,7 @@ This is my implementation of Bellman-Ford Algorithm
 
 ![image](https://github.com/davidkingroderos/bellman-ford-algorithm/assets/75028710/0f941750-d93e-4ccc-a702-d91aa998cb0a)
 
-Reference: https://www.youtube.com/watch?v=FtN3BYH2Zes&ab_channel=AbdulBari
+Reference Graph: https://www.youtube.com/watch?v=FtN3BYH2Zes&ab_channel=AbdulBari
 
 **Sample Usage:**
 
